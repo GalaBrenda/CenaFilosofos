@@ -1,4 +1,4 @@
-package CenaFilosofos;
+package Filosofos;
 
 public class Filosofo extends Thread{
 	private int id;

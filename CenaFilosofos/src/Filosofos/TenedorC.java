@@ -1,4 +1,4 @@
-package CenaFilosofos;
+package Filosofos;
 
 
 public class TenedorC {

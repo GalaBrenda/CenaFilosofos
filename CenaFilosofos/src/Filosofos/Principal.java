@@ -1,4 +1,4 @@
-package CenaFilosofos;
+package Filosofos;
 
 public class Principal {
 	public static void main(String[] args) {
